@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/stianeikeland/go-rpio/v4"
+	rpio "github.com/s-fairchild/go-rpio/v4"
 	"os"
 	"time"
 )

@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/stianeikeland/go-rpio/v4"
 	"os"
+
+	"github.com/s-fairchild/go-rpio/v4"
 )
 
 var (
